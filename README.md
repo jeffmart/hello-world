@@ -1,8 +1,6 @@
 # hello-world
 test
 update
-<<<<<<< HEAD
-from my readme_edits_2 branch
-=======
 Adding in another line for a test
->>>>>>> refs/remotes/origin/master
+
+adding a line from the realk readme_edit_2 branch (0707)
